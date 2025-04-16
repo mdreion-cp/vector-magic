@@ -1,0 +1,3 @@
+if (find(res.begin(), res.end(), val) == res.end()) {
+    res.push_back(val);
+}
